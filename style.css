@@ -1,0 +1,28 @@
+#search{
+   margin: 0 auto;
+    width:50%;
+  }
+#result{
+      margin-left:5vw ;
+      margin-right:5vw ;
+      margin-bottom:5vw ;
+      
+}
+h1{
+  padding-top:5vw ;
+}
+.fa{
+   
+}
+#panel {
+    padding:5vw;
+    margin-top : ;
+    display: none;
+   background-color: #ffe0b3;
+}
+body{
+  background-color:#e68a00 ;
+ }
+h2,p {
+  color : white ;
+}
